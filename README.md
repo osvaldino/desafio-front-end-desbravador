@@ -16,6 +16,9 @@ npm install
 npm run dev
 ```
 
+Aplicação rodando na Vercel: <a href="https://desafio-front-end-desbravador.vercel.app" target="_blank">https://desafio-front-end-desbravador.vercel.app</a>
+
+
 Este projeto é construído com:
 
 - Vite
